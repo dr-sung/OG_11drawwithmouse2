@@ -8,7 +8,7 @@ public class Main {
         
         MyWindow window = new MyWindow();
         window.configure();
-        window.setSize(500, 500);
+        window.setSize(700, 700);
         window.setTitle("Draw with Mouse 2");
         window.setLocation(200, 200);
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
